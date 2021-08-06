@@ -1,0 +1,12 @@
+<style>  
+.footer {  
+position: fixed;  
+left: 10px;  
+bottom: 5px;  
+right: 10px;   
+width: 95%;  
+background-color: rgb(54, 40, 40);  
+color: white;  
+text-align: center;  
+}  
+</style>  
