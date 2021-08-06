@@ -1,12 +1,32 @@
-<style>  
+ 
 .footer {  
 position: fixed;  
 left: 10px;  
 bottom: 5px;  
 right: 10px;   
 width: 95%;  
-background-color: rgb(54, 40, 40);  
+background-color: rgb(32, 216, 115);  
 color: white;  
 text-align: center;  
 }  
-</style>  
+
+
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+
+  #toys{
+      height: 80%;
+      width: 70%;
+  }
+
+
+
+
+
+
